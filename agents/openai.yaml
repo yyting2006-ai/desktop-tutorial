@@ -1,0 +1,4 @@
+interface:
+  display_name: "Youtingrui Paper Prompting"
+  short_description: "Write papers with Youtingrui's prompt workflow"
+  default_prompt: "Use $youtingrui-paper-prompting to help me write this paper section in my usual prompting style."
